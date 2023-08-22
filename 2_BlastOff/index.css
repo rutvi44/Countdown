@@ -1,0 +1,22 @@
+body{
+    margin-left: 35%;
+}
+p{
+    margin-left: 6.5%;
+}
+button {
+margin-left: 8%;
+}
+h2{
+    margin-left: 10.5%;
+}
+button{
+    padding: 3px;
+    font-size: 25px;
+    font-family: Helvetica;
+    background-color: cadetblue;
+}
+h2{
+    color: rgb(12, 12, 237);
+    font-family: bold;
+}
